@@ -1,1 +1,1 @@
-Python-3.7.2
+PYTHON-3.7.2

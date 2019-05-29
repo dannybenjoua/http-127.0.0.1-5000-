@@ -1,1 +1,1 @@
-Web: gunicorn MYBLOG:app
+WEB: gunicorn MYBLOG:app
